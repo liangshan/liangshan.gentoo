@@ -45,3 +45,9 @@ $ cp .xinitrc ~/
 ```
 
 then startx and have fun.
+
+## LICENSE
+
+[BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0)
+
+

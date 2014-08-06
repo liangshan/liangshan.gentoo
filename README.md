@@ -27,6 +27,8 @@ $ tar xvf tamsyn-font-1.10.tar.gz
 $ mkdir -p ~/.fonts
 $ cp tamsyn-font-1.10/*.pcf ~/.fonts/
 $ mkfontdir ~/.fonts/ 
+$ emerge media-fonts/wqy-zenhei
+$ emerge media-fonts/wqy-microhei
 ```
 
 ### color theme

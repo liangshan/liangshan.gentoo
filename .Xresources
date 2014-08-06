@@ -16,8 +16,10 @@ URxvt.foreground             :  #CCCCCC
 URxvt.scrollBar              :  false
 URxvt.buffered               :  true
 
-URxvt.font                   :  -misc-tamsyn-medium-r-normal--16-116-100-100-c-80-iso8859-1
-URxvt.boldFont               :  -misc-tamsyn-bold-r-normal--16-116-100-100-c-80-iso8859-1
+URxvt.font                   :  -misc-tamsyn-medium-r-normal--16-116-100-100-c-80-iso8859-1,xft:WenQuanyi Micro Hei 
+URxvt.boldFont               :  -misc-tamsyn-bold-r-normal--16-116-100-100-c-80-iso8859-1,xft:WenQuanyi Micro Hei
 
 URxvt.url-select.underline   :  true
 URxvt.colorUL                :  #78A4FF
+
+URxvt.inputMethod            :  fcitx

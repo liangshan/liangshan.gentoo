@@ -1,0 +1,23 @@
+#include ".colors/holo"
+
+Xft.lcdfilter                :  lcddefault
+Xft.hintstyle                :  hintslight
+Xft.hinting                  :  1
+Xft.autohint                 :  1
+Xft.antialias                :  1
+Xft.dpi                      :  96
+Xft.rgba                     :  rgb
+
+Xcursor.theme                :  Vanilla-DMZ-AA
+
+URxvt.inheritPixmap          :  true
+URxvt.tintColor              :  #555555
+URxvt.foreground             :  #CCCCCC
+URxvt.scrollBar              :  false
+URxvt.buffered               :  true
+
+URxvt.font                   :  -misc-tamsyn-medium-r-normal--16-116-100-100-c-80-iso8859-1
+URxvt.boldFont               :  -misc-tamsyn-bold-r-normal--16-116-100-100-c-80-iso8859-1
+
+URxvt.url-select.underline   :  true
+URxvt.colorUL                :  #78A4FF

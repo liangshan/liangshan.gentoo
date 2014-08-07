@@ -1,11 +1,12 @@
 My gentoo files.
 
-## dependence
+## Dependence
 
 + `emerge system-apps/iproute2` for the theme's net widget.
 + [awesome-copycats](https://github.com/copycat-killer/awesome-copycats) and follow it's README.
-+ emerge [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) with USE flag `xft`
++ `USE="xft" emerge rxvt-unicode` 
 + `emerge x11-misc/xcompmgr`
++ `USE="qt4" emerge -av fcitx` for chinese input method.
 
 ## Install
 

@@ -1,17 +1,15 @@
 My gentoo files.
 
-## download
+## dependence
 
-[awesome-copycats](https://github.com/copycat-killer/awesome-copycats) and follow it's README.
++ [awesome-copycats](https://github.com/copycat-killer/awesome-copycats) and follow it's README.
 
+
++ emerge [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) with USE flag `xft`
+
++ `emerge x11-misc/xcompmgr`
 
 ## Install
-
-### xcompmgr
-
-```bash
-$ sudo emerge x11-misc/xcompmgr
-```
 
 ### clone repo
 
